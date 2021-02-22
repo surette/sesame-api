@@ -1,0 +1,670 @@
+[
+  {
+    "doctor": { "firstName": "Vada", "lastName": "Parisian" },
+    "durationInMinutes": 12,
+    "time": "2021-02-22 04:55:00",
+    "service": { "name": "Enema", "price": 1091 },
+    "location": {
+      "name": "Kansas City Medical Centre",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "4754b079-4de4-4cc4-a83b-2bab1db18559"
+  },
+  {
+    "doctor": { "firstName": "Waylon", "lastName": "Green" },
+    "durationInMinutes": 5,
+    "time": "2021-02-22 11:10:00",
+    "service": { "name": "X-Ray", "price": 5769 },
+    "location": {
+      "name": "Kansas City Medical Centre",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "e9732300-f66b-45aa-987b-b006cb5c8303"
+  },
+  {
+    "doctor": { "firstName": "Jeramy", "lastName": "O'Kon" },
+    "durationInMinutes": 10,
+    "time": "2021-02-22 04:02:00",
+    "service": { "name": "Podiatry", "price": 1861 },
+    "location": {
+      "name": "Oklahoma hospital",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "55f0d56e-4259-4aa1-a462-6d97ed512fcf"
+  },
+  {
+    "doctor": { "firstName": "Jeramy", "lastName": "O'Kon" },
+    "durationInMinutes": 14,
+    "time": "2021-02-22 04:02:00",
+    "service": { "name": "MRI Scan", "price": 5995 },
+    "location": {
+      "name": "Kansas City Medical Centre",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "24955b92-d248-4832-9581-cfba140bc94f"
+  },
+  {
+    "doctor": { "firstName": "Waylon", "lastName": "Green" },
+    "durationInMinutes": 12,
+    "time": "2021-02-22 11:10:00",
+    "service": { "name": "X-Ray", "price": 5769 },
+    "location": {
+      "name": "Kansas City Care",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "e96b4a20-37ad-47cf-bf9f-509983911040"
+  },
+  {
+    "doctor": { "firstName": "Edwina", "lastName": "Schmeler" },
+    "durationInMinutes": 12,
+    "time": "2021-02-22 10:56:00",
+    "service": { "name": "Podiatry", "price": -1 },
+    "location": { "name": "KC Doctors", "timeZoneCode": "America/Chicago" },
+    "id": "de041f5d-514c-42cb-9002-5bc513c4c2b2"
+  },
+  {
+    "doctor": { "firstName": "Cecile", "lastName": "Bailey" },
+    "durationInMinutes": 7,
+    "time": "2021-02-22 03:55:00",
+    "service": { "name": "Sports physical", "price": 5609 },
+    "location": {
+      "name": "Kansas City Care",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "c055ce5a-b94f-4a24-971b-0e4845bf4f04"
+  },
+  {
+    "doctor": { "firstName": "Landen", "lastName": "Batz" },
+    "durationInMinutes": 13,
+    "time": "2021-02-22 01:06:00",
+    "service": { "name": "X-Ray", "price": -1 },
+    "location": {
+      "name": "Kansas City Care",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "726338f8-1b85-48d3-ae2b-e91e08f75ce2"
+  },
+  {
+    "doctor": { "firstName": "Hilario", "lastName": "Stokes" },
+    "durationInMinutes": 12,
+    "time": "2021-02-22 04:52:00",
+    "service": { "name": "Flu shot", "price": 7910 },
+    "location": {
+      "name": "Kansas City Medical Centre",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "c4efc090-0242-47bf-99b6-4eafa2ea4348"
+  },
+  {
+    "doctor": { "firstName": "Edwina", "lastName": "Schmeler" },
+    "durationInMinutes": 8,
+    "time": "2021-02-22 10:56:00",
+    "service": { "name": "Annual check up", "price": 5884 },
+    "location": { "name": "KC Doctors", "timeZoneCode": "America/Chicago" },
+    "id": "0a0c5c45-5b3b-41ff-8986-4013c4a6286d"
+  },
+  {
+    "doctor": { "firstName": "Vada", "lastName": "Parisian" },
+    "durationInMinutes": 6,
+    "time": "2021-02-22 04:55:00",
+    "service": { "name": "Sports physical", "price": 5609 },
+    "location": { "name": "KC Doctors", "timeZoneCode": "America/Chicago" },
+    "id": "9c5c4fd8-83fb-4c40-a125-3702a8e080cf"
+  },
+  {
+    "doctor": { "firstName": "Edwina", "lastName": "Schmeler" },
+    "durationInMinutes": 6,
+    "time": "2021-02-22 10:56:00",
+    "service": { "name": "Flu shot", "price": 7910 },
+    "location": {
+      "name": "Kansas City Care",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "d9649dc8-78a4-45f3-b53f-80008c69f7c0"
+  },
+  {
+    "doctor": { "firstName": "Dan", "lastName": "Steuber" },
+    "durationInMinutes": 10,
+    "time": "2021-02-22 03:06:00",
+    "service": { "name": "Teeth cleaning", "price": 1590 },
+    "location": {
+      "name": "Wichita rehabilitation center",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "73b2ceee-59e8-4ebe-a003-eac3cf69ec45"
+  },
+  {
+    "doctor": { "firstName": "Sedrick", "lastName": "Harber" },
+    "durationInMinutes": 7,
+    "time": "2021-02-22 04:05:00",
+    "service": { "name": "X-Ray", "price": 5769 },
+    "location": {
+      "name": "Wichita rehabilitation center",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "dba0f3f7-7c58-42ee-9e76-86d559a1c347"
+  },
+  {
+    "doctor": { "firstName": "Hilario", "lastName": "Stokes" },
+    "durationInMinutes": 8,
+    "time": "2021-02-22 04:52:00",
+    "service": { "name": "IUD Removal", "price": 4054 },
+    "location": { "name": null, "timeZoneCode": "America/Chicago" },
+    "id": "2590a356-381c-4335-a66c-b0f39a0ad6ea"
+  },
+  {
+    "doctor": { "firstName": "Easter", "lastName": "Cummings" },
+    "durationInMinutes": 9,
+    "time": "2021-02-22 02:03:00",
+    "service": { "name": "IUD Removal", "price": 4054 },
+    "location": {
+      "name": "Oklahoma hospital",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "60bc6d0e-f35d-4044-b259-b5faada1091f"
+  },
+  {
+    "doctor": { "firstName": "Easter", "lastName": "Cummings" },
+    "durationInMinutes": 13,
+    "time": "2021-02-22 02:03:00",
+    "service": { "name": "Annual check up", "price": 5884 },
+    "location": {
+      "name": "Oklahoma hospital",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "4eb21a98-e333-40e2-941c-b2692e0b312a"
+  },
+  {
+    "doctor": { "firstName": "Hilario", "lastName": "Stokes" },
+    "durationInMinutes": 8,
+    "time": "2021-02-22 04:52:00",
+    "service": {
+      "name": "Discolored butthole flaps inspection",
+      "price": 5799
+    },
+    "location": { "name": "KC Doctors", "timeZoneCode": "America/Chicago" },
+    "id": "c2958ab3-8830-458c-bdf4-1bb6a853ebc5"
+  },
+  {
+    "doctor": { "firstName": "Sedrick", "lastName": "Harber" },
+    "durationInMinutes": 12,
+    "time": "2021-02-22 04:05:00",
+    "service": { "name": "Hip replacement", "price": 6470 },
+    "location": {
+      "name": "Kansas City Medical Centre",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "39ba1dd3-b2cf-47d3-901f-9f05b4830303"
+  },
+  {
+    "doctor": { "firstName": "Easter", "lastName": "Cummings" },
+    "durationInMinutes": 11,
+    "time": "2021-02-22 02:03:00",
+    "service": { "name": "Cardiology consultation", "price": 7880 },
+    "location": { "name": "KC Doctors", "timeZoneCode": "America/Chicago" },
+    "id": "acdd4e62-1684-4b78-af97-602f60d3415c"
+  },
+  {
+    "doctor": { "firstName": "Easter", "lastName": "Cummings" },
+    "durationInMinutes": 6,
+    "time": "2021-02-22 02:03:00",
+    "service": { "name": "Flu shot", "price": 7910 },
+    "location": {
+      "name": "Kansas City Care",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "ed6c0da1-9164-4998-be10-ca76ac53fb55"
+  },
+  {
+    "doctor": { "firstName": "Waylon", "lastName": "Green" },
+    "durationInMinutes": 15,
+    "time": "2021-02-22 11:10:00",
+    "service": { "name": "Physiotherapy consultation", "price": 4757 },
+    "location": {
+      "name": "Oklahoma hospital",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "dbeb4041-8086-4595-88a3-f59aefb94182"
+  },
+  {
+    "doctor": { "firstName": "Waylon", "lastName": "Green" },
+    "durationInMinutes": 9,
+    "time": "2021-02-22 11:10:00",
+    "service": { "name": "IUD Removal", "price": 4054 },
+    "location": { "name": "KC Doctors", "timeZoneCode": "America/Chicago" },
+    "id": "15ce26f9-c531-4fd2-bd85-60fa37d200d9"
+  },
+  {
+    "doctor": { "firstName": "Landen", "lastName": "Batz" },
+    "durationInMinutes": 19,
+    "time": "2021-02-22 01:06:00",
+    "service": { "name": "Hip replacement", "price": 6470 },
+    "location": {
+      "name": "Wichita rehabilitation center",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "d4da0bcb-b24c-4737-ba58-5902f11a5b69"
+  },
+  {
+    "doctor": { "firstName": "Cecile", "lastName": "Bailey" },
+    "durationInMinutes": 8,
+    "time": "2021-02-22 03:55:00",
+    "service": { "name": "MRI Scan", "price": 5995 },
+    "location": {
+      "name": "Wichita rehabilitation center",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "81b21155-6055-4d4d-8d1d-b15e43d38607"
+  },
+  {
+    "doctor": { "firstName": "Edwina", "lastName": "Schmeler" },
+    "durationInMinutes": 15,
+    "time": "2021-02-22 10:56:00",
+    "service": { "name": "Counselling", "price": 9242 },
+    "location": {
+      "name": "Wichita rehabilitation center",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "7967a871-50c2-4bab-97d3-c8b5a6f30385"
+  },
+  {
+    "doctor": { "firstName": "Edwina", "lastName": "Schmeler" },
+    "durationInMinutes": 15,
+    "time": "2021-02-22 10:56:00",
+    "service": { "name": "Annual check up", "price": 5884 },
+    "location": { "name": null, "timeZoneCode": "America/Chicago" },
+    "id": "88da598f-6f86-4202-aace-b7867ecde203"
+  },
+  {
+    "doctor": { "firstName": "Dan", "lastName": "Steuber" },
+    "durationInMinutes": 10,
+    "time": "2021-02-22 03:06:00",
+    "service": { "name": "MRI Scan", "price": 5995 },
+    "location": {
+      "name": "Kansas City Care",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "f01b2452-a3e1-4ea6-9cd5-0d07e7bc4cac"
+  },
+  {
+    "doctor": { "firstName": "Landen", "lastName": "Batz" },
+    "durationInMinutes": 15,
+    "time": "2021-02-22 01:06:00",
+    "service": { "name": "Physiotherapy consultation", "price": 4757 },
+    "location": {
+      "name": "Wichita rehabilitation center",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "3ffaddc2-d8c5-4556-a25e-baaca0019529"
+  },
+  {
+    "doctor": { "firstName": "Dan", "lastName": "Steuber" },
+    "durationInMinutes": 15,
+    "time": "2021-02-22 03:06:00",
+    "service": { "name": "MRI Scan", "price": 5995 },
+    "location": {
+      "name": "Oklahoma hospital",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "d142a212-5b16-442a-b336-0ba469b0d531"
+  },
+  {
+    "doctor": { "firstName": "Landen", "lastName": "Batz" },
+    "durationInMinutes": 15,
+    "time": "2021-02-22 01:06:00",
+    "service": { "name": "Podiatry", "price": 1861 },
+    "location": {
+      "name": "New York City Clinic",
+      "timeZoneCode": "America/New_York"
+    },
+    "id": "415596db-f242-4e04-ba17-88c0e0373181"
+  },
+  {
+    "doctor": { "firstName": "Easter", "lastName": "Cummings" },
+    "durationInMinutes": 12,
+    "time": "2021-02-22 02:03:00",
+    "service": { "name": "Hip replacement", "price": 6470 },
+    "location": {
+      "name": "Wichita rehabilitation center",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "6891e330-23df-4db3-ac0e-fce7e0af3857"
+  },
+  {
+    "doctor": { "firstName": "Sedrick", "lastName": "Harber" },
+    "durationInMinutes": 11,
+    "time": "2021-02-22 04:05:00",
+    "service": { "name": "IUD Removal", "price": 4054 },
+    "location": {
+      "name": "Oklahoma hospital",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "60e4fe7c-e82d-48e8-ad91-25554866d6ed"
+  },
+  {
+    "doctor": { "firstName": "Jeramy", "lastName": "O'Kon" },
+    "durationInMinutes": 6,
+    "time": "2021-02-22 04:02:00",
+    "service": {
+      "name": "Discolored butthole flaps inspection",
+      "price": 5799
+    },
+    "location": { "name": "KC Doctors", "timeZoneCode": "America/Chicago" },
+    "id": "97fce5c0-8846-4c55-978d-051d6bb5f854"
+  },
+  {
+    "doctor": { "firstName": "Hilario", "lastName": "Stokes" },
+    "durationInMinutes": 10,
+    "time": "2021-02-22 04:52:00",
+    "service": { "name": "Physiotherapy consultation", "price": 4757 },
+    "location": {
+      "name": "New York City Clinic",
+      "timeZoneCode": "America/New_York"
+    },
+    "id": "6dfded66-175e-470c-8003-d0428241ee61"
+  },
+  {
+    "doctor": { "firstName": "Sedrick", "lastName": "Harber" },
+    "durationInMinutes": 13,
+    "time": "2021-02-22 04:05:00",
+    "service": { "name": "Hip replacement", "price": 6470 },
+    "location": {
+      "name": "Kansas City Care",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "5e11892f-69a8-4973-9039-addaf42dabe9"
+  },
+  {
+    "doctor": { "firstName": "Jeramy", "lastName": "O'Kon" },
+    "durationInMinutes": 8,
+    "time": "2021-02-22 04:02:00",
+    "service": { "name": "Physiotherapy consultation", "price": 4757 },
+    "location": {
+      "name": "Kansas City Medical Centre",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "90ef629c-ae42-4697-91a4-452353da915b"
+  },
+  {
+    "doctor": { "firstName": "Landen", "lastName": "Batz" },
+    "durationInMinutes": 11,
+    "time": "2021-02-22 01:06:00",
+    "service": { "name": "Flu shot", "price": 7910 },
+    "location": {
+      "name": "Wichita rehabilitation center",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "782403a9-ef70-4d23-b5e1-790a4eb96951"
+  },
+  {
+    "doctor": { "firstName": "Vada", "lastName": "Parisian" },
+    "durationInMinutes": 8,
+    "time": "2021-02-22 04:55:00",
+    "service": { "name": "Flu shot", "price": 7910 },
+    "location": {
+      "name": "Wichita rehabilitation center",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "75fea724-96fe-4160-9eba-3658f3cde5ee"
+  },
+  {
+    "doctor": { "firstName": "Edwina", "lastName": "Schmeler" },
+    "durationInMinutes": 15,
+    "time": "2021-02-22 10:56:00",
+    "service": { "name": "Flu shot", "price": 7910 },
+    "location": {
+      "name": "New York City Clinic",
+      "timeZoneCode": "America/New_York"
+    },
+    "id": "d7f802be-d15c-46eb-9342-b642786efdc8"
+  },
+  {
+    "doctor": { "firstName": "Jeramy", "lastName": "O'Kon" },
+    "durationInMinutes": 15,
+    "time": "2021-02-22 04:02:00",
+    "service": { "name": "Counselling", "price": 9242 },
+    "location": {
+      "name": "Kansas City Medical Centre",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "2cf88a1c-e1a8-481a-af4b-f17a78efbece"
+  },
+  {
+    "doctor": { "firstName": "Hilario", "lastName": "Stokes" },
+    "durationInMinutes": 12,
+    "time": "2021-02-22 04:52:00",
+    "service": { "name": "Counselling", "price": -1 },
+    "location": {
+      "name": "Wichita rehabilitation center",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "171f7ed6-7fb1-47ba-99e9-2a2033d61490"
+  },
+  {
+    "doctor": { "firstName": "Vada", "lastName": "Parisian" },
+    "durationInMinutes": 14,
+    "time": "2021-02-22 04:55:00",
+    "service": { "name": "Physiotherapy consultation", "price": 4757 },
+    "location": {
+      "name": "Wichita rehabilitation center",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "683de218-9176-4e29-a2fe-5b9f9f920e88"
+  },
+  {
+    "doctor": { "firstName": "Edwina", "lastName": "Schmeler" },
+    "durationInMinutes": 15,
+    "time": "2021-02-22 10:56:00",
+    "service": { "name": "Flu shot", "price": 7910 },
+    "location": {
+      "name": "New York City Clinic",
+      "timeZoneCode": "America/New_York"
+    },
+    "id": "d7f802be-d15c-46eb-9342-b642786efdc8"
+  },
+  {
+    "doctor": { "firstName": "Landen", "lastName": "Batz" },
+    "durationInMinutes": 8,
+    "time": "2021-02-22 01:06:00",
+    "service": { "name": "Counselling", "price": 9242 },
+    "location": { "name": null, "timeZoneCode": "America/Chicago" },
+    "id": "357ab4b1-7f96-4dcd-b4fa-742bac24e86a"
+  },
+  {
+    "doctor": { "firstName": "Jeramy", "lastName": "O'Kon" },
+    "durationInMinutes": 9,
+    "time": "2021-02-22 04:02:00",
+    "service": { "name": "Podiatry", "price": 1861 },
+    "location": { "name": "KC Doctors", "timeZoneCode": "America/Chicago" },
+    "id": "baa7ad0b-ec72-4541-a5cd-eb739208dbe5"
+  },
+  {
+    "doctor": { "firstName": "Cecile", "lastName": "Bailey" },
+    "durationInMinutes": 12,
+    "time": "2021-02-22 03:55:00",
+    "service": {
+      "name": "Discolored butthole flaps inspection",
+      "price": 5799
+    },
+    "location": {
+      "name": "Kansas City Medical Centre",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "60841da9-1f0e-4c5c-bd3f-8aa063b81b4f"
+  },
+  {
+    "doctor": { "firstName": "Sedrick", "lastName": "Harber" },
+    "durationInMinutes": 14,
+    "time": "2021-02-22 04:05:00",
+    "service": { "name": "X-Ray", "price": 5769 },
+    "location": {
+      "name": "Kansas City Medical Centre",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "3b2fbe4e-da56-4bd7-b926-4af684f20b81"
+  },
+  {
+    "doctor": { "firstName": "Dan", "lastName": "Steuber" },
+    "durationInMinutes": 15,
+    "time": "2021-02-22 03:06:00",
+    "service": { "name": "Flu shot", "price": 7910 },
+    "location": { "name": "KC Doctors", "timeZoneCode": "America/Chicago" },
+    "id": "adeebc40-118a-4853-b85a-fe3e2cb20380"
+  },
+  {
+    "doctor": { "firstName": "Cecile", "lastName": "Bailey" },
+    "durationInMinutes": 7,
+    "time": "2021-02-22 03:55:00",
+    "service": { "name": "Cardiology consultation", "price": 7880 },
+    "location": { "name": "KC Doctors", "timeZoneCode": "America/Chicago" },
+    "id": "187f6229-c065-4db4-9767-fc23648bb8b9"
+  },
+  {
+    "doctor": { "firstName": "Waylon", "lastName": "Green" },
+    "durationInMinutes": 14,
+    "time": "2021-02-22 11:10:00",
+    "service": { "name": "X-Ray", "price": 5769 },
+    "location": {
+      "name": "Wichita rehabilitation center",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "1d50b75e-dc8a-48f7-8d1f-66f625a32928"
+  },
+  {
+    "doctor": { "firstName": "Cecile", "lastName": "Bailey" },
+    "durationInMinutes": 13,
+    "time": "2021-02-22 03:55:00",
+    "service": { "name": "Sports physical", "price": 5609 },
+    "location": { "name": "KC Doctors", "timeZoneCode": "America/Chicago" },
+    "id": "0acde124-84b1-4a24-b296-707bdc8d03da"
+  },
+  {
+    "doctor": { "firstName": "Dan", "lastName": "Steuber" },
+    "durationInMinutes": 5,
+    "time": "2021-02-22 03:06:00",
+    "service": {
+      "name": "Discolored butthole flaps inspection",
+      "price": 5799
+    },
+    "location": {
+      "name": "Oklahoma hospital",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "d9def781-70ad-44f3-97d7-86c14fad345a"
+  },
+  {
+    "doctor": { "firstName": "Cecile", "lastName": "Bailey" },
+    "durationInMinutes": 8,
+    "time": "2021-02-22 03:55:00",
+    "service": { "name": "IUD Removal", "price": 4054 },
+    "location": {
+      "name": "Kansas City Medical Centre",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "e45971e9-d5f5-4daa-ac3d-ef906c14f9d9"
+  },
+  {
+    "doctor": { "firstName": "Dan", "lastName": "Steuber" },
+    "durationInMinutes": 10,
+    "time": "2021-02-22 03:06:00",
+    "service": { "name": "MRI Scan", "price": 5995 },
+    "location": {
+      "name": "Kansas City Care",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "f01b2452-a3e1-4ea6-9cd5-0d07e7bc4cac"
+  },
+  {
+    "doctor": { "firstName": "Vada", "lastName": "Parisian" },
+    "durationInMinutes": 9,
+    "time": "2021-02-22 04:55:00",
+    "service": { "name": "MRI Scan", "price": 5995 },
+    "location": {
+      "name": "Oklahoma hospital",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "b3353ccb-af27-437c-b96e-8c1095c48643"
+  },
+  {
+    "doctor": { "firstName": "Sedrick", "lastName": "Harber" },
+    "durationInMinutes": 8,
+    "time": "2021-02-22 04:05:00",
+    "service": {
+      "name": "Discolored butthole flaps inspection",
+      "price": 5799
+    },
+    "location": { "name": "KC Doctors", "timeZoneCode": "America/Chicago" },
+    "id": "d836a1f9-2243-42e1-ab09-862873902adb"
+  },
+  {
+    "doctor": { "firstName": "Dan", "lastName": "Steuber" },
+    "durationInMinutes": 11,
+    "time": "2021-02-22 03:06:00",
+    "service": { "name": "X-Ray", "price": 5769 },
+    "location": {
+      "name": "Kansas City Care",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "7f264015-ae7c-4782-9e2e-ec6b0f6a4814"
+  },
+  {
+    "doctor": { "firstName": "Edwina", "lastName": "Schmeler" },
+    "durationInMinutes": 15,
+    "time": "2021-02-22 10:56:00",
+    "service": { "name": "Annual check up", "price": 5884 },
+    "location": { "name": null, "timeZoneCode": "America/Chicago" },
+    "id": "88da598f-6f86-4202-aace-b7867ecde203"
+  },
+  {
+    "doctor": { "firstName": "Hilario", "lastName": "Stokes" },
+    "durationInMinutes": 17,
+    "time": "2021-02-22 04:52:00",
+    "service": { "name": "Podiatry", "price": 1861 },
+    "location": {
+      "name": "Oklahoma hospital",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "58d322b2-4db4-4f3f-80b9-22e53b0c363a"
+  },
+  {
+    "doctor": { "firstName": "Waylon", "lastName": "Green" },
+    "durationInMinutes": 15,
+    "time": "2021-02-22 11:10:00",
+    "service": { "name": "Counselling", "price": 9242 },
+    "location": {
+      "name": "Oklahoma hospital",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "66dce2ef-0a66-4844-9d23-b99e77ae5703"
+  },
+  {
+    "doctor": { "firstName": "Easter", "lastName": "Cummings" },
+    "durationInMinutes": 12,
+    "time": "2021-02-22 02:03:00",
+    "service": { "name": "Cardiology consultation", "price": 7880 },
+    "location": {
+      "name": "Kansas City Care",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "230e699d-e320-4dff-ba92-1ba310983a81"
+  },
+  {
+    "doctor": { "firstName": "Edwina", "lastName": "Schmeler" },
+    "durationInMinutes": 12,
+    "time": "2021-02-22 10:56:00",
+    "service": { "name": "Podiatry", "price": -1 },
+    "location": { "name": "KC Doctors", "timeZoneCode": "America/Chicago" },
+    "id": "de041f5d-514c-42cb-9002-5bc513c4c2b2"
+  },
+  {
+    "doctor": { "firstName": "Vada", "lastName": "Parisian" },
+    "durationInMinutes": 6,
+    "time": "2021-02-22 04:55:00",
+    "service": { "name": "Physiotherapy consultation", "price": 4757 },
+    "location": {
+      "name": "Wichita rehabilitation center",
+      "timeZoneCode": "America/Chicago"
+    },
+    "id": "cc5fa0c0-e1b5-49ea-8afa-41cf56b2f0eb"
+  }
+]
